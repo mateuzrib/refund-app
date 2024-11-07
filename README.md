@@ -1,4 +1,4 @@
-# Festivite
+# Refund App
 Refund is an app designed to simplify the management and refund of expenses on everyday groceries.
 
 <div>
